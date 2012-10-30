@@ -1,9 +1,9 @@
 splunk-ec2
 ==========
 
-Main URL to the Splunk instance
+Main Splunk instance
 <br>
-<a target="_new">http://ec2-184-73-39-121.compute-1.amazonaws.com:8000/en-US</a>
+http://ec2-184-73-39-121.compute-1.amazonaws.com:8000/en-US
 <br>
 <br>
 JavaScript SDK Demo
