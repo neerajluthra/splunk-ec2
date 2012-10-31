@@ -16,9 +16,9 @@ JavaScript SDK Twitter Demo
 http://ec2-184-73-39-121.compute-1.amazonaws.com:5000/map
 <br>
 <br>
-OData Demo endpoint (shows top 10 components on the splunk instance)
+OData Demo endpoint (shows top hashtags from twitter in the last 15 minutes)
 <br>
-http://ec2-184-73-39-121.compute-1.amazonaws.com:8088/services/odata/v1/saved/searches/NLTopComponent1
+http://ec2-184-73-39-121.compute-1.amazonaws.com:8088/services/odata/v1/saved/searches/Top%20Hashtags
 <br>
 user: nluser1
 <br>
