@@ -1,11 +1,6 @@
 splunk-ec2
 ==========
 
-Main Splunk instance
-<br>
-http://ec2-184-73-39-121.compute-1.amazonaws.com:8000/en-US
-<br>
-<br>
 JavaScript SDK Demo
 <br>
 http://ec2-184-73-39-121.compute-1.amazonaws.com:6969/examples/browser/index.html
@@ -23,3 +18,8 @@ http://ec2-184-73-39-121.compute-1.amazonaws.com:8088/services/odata/v1/saved/se
 user: nluser1
 <br>
 password: Letmein1
+<br>
+<br>
+Main Splunk instance
+<br>
+http://ec2-184-73-39-121.compute-1.amazonaws.com:8000/en-US
